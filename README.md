@@ -10,15 +10,15 @@
 
 ## 1.前端核心基础
 ```
-1.1 网页界面技术：-HTML、-CSS
+1.1 网页界面技术：HTML、CSS
 
 1.1.1 HTML
 
-1.2 网页交互技术：①JavaScript、②DOM、③BOM
+1.2 网页交互技术：JavaScript、DOM、BOM
 ```
 ## 2.前端核心高级
 ```
-2.1 网页界面新技术：①HTML5（语义化标签、本地存储、音视频等）②CSS3（过渡、动画等）
+2.1 网页界面新技术：HTML5（语义化标签、本地存储、音视频等）、CSS3（过渡、动画等）
 
 2.2 移动端开发（移动端特性、适配等）
 
@@ -34,7 +34,7 @@
 
 2.8 移动端类jQuery库：Zepto
 
-2.9 版本控制工具：①SVN、②GIT&Github
+2.9 版本控制工具：SVN、GIT&Github
 
 ```
 ## 3.JS后台技术
@@ -45,7 +45,7 @@
 
 3.3 简洁的MongoDB操作库：Mongoose
 
-3.4 后台Web开发框架：①Express、②koa
+3.4 后台Web开发框架：Express、koa
 
 3.5 后台模板引擎：EJS
 
@@ -93,9 +93,9 @@
 
 5.6 ES7新特性
 
-5.7 模块化规范：①CommonJS②ES6③AMD④CMD
+5.7 模块化规范：CommonJS、ES6、AMD、CMD
 
-5.8 构建工具：①Grunt②Gulp③Webpack
+5.8 构建工具：Grunt、Gulp、Webpack
 
 ```
 ## 6.前端新型web框架

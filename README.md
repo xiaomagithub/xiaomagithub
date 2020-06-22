@@ -1,6 +1,6 @@
 # xiaomagithub
 
-## Welcome to xiaomagithub Pages
+## 欢迎来到小马的GitHub网页
 
 你可以查看我的学习经历，[网址](https://github.com/xiaomagithub/xiaomagithub)
 

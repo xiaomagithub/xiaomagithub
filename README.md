@@ -1,4 +1,4 @@
-#xiaomagithub
+# xiaomagithub
 
 ## Welcome to xiaomagithub Pages
 
@@ -10,7 +10,7 @@
 
 ## 1.前端核心基础
 ```
-1.1 网页界面技术：①HTML、②CSS
+1.1 网页界面技术：1.HTML、2.CSS
 
 1.1.1 HTML
 
@@ -40,37 +40,63 @@
 ## 3.JS后台技术
 ```
 3.1 强大的后台JS：Node.js
+
 3.2 高效的非关系型数据库：MongoDB
+
 3.3 简洁的MongoDB操作库：Mongoose
+
 3.4 后台Web开发框架：①Express、②koa
+
 3.5 后台模板引擎：EJS
+
 3.6 实时通信聊天库：socket.io
+
 3.7 网络通信协议：http、https
+
 3.8 通信数据加密：MD5、jsonwebtoken
+
 ```
 ## 4.前台交互
 ```
 4.1 AJAX
+
 4.2 新型ajax请求方式：fetch
+
 4.3 前后台ajax请求库：axios
+
 4.4 REST API
+
 4.5 跨域全面解决方案
+
 4.6 mock后台数据接口的库：Mock.js/EasyMock
+
 4.7 接口调试神器：postman
+
 4.8 基于promise封装原生ajax
+
 4.9 axios源码剖析
+
 4.10 基于promise实现axios封装及二次迭代
+
 ```
 ## 5.JavaScript高级
 ```
 5.1 JS作用域与作用域链
+
 5.2 JS原型与原型链
+
 5.3 JS闭包
+
 5.4 JS异步/事件循环机制
+
 5.5 ES6新特性
+
 5.6 ES7新特性
+
 5.7 模块化规范：①CommonJS②ES6③AMD④CMD
+
 5.8 构建工具：①Grunt②Gulp③Webpack
+
 ```
 ## 6.前端新型web框架
 
@@ -78,41 +104,66 @@
 ### 6.2 Facebook出品组件化库：React
 ```
 6.2.1 React路由插件库：React-Router
+
 6.2.2 React应用状态管理库：Redux
+
 6.2.3 React PC端UI组件库：Ant Design
+
 6.2.4 React 移动端UI组件库：Antd-Mobile
+
 6.2.5 React服务器端渲染技术
+
 6.2.6 React实战项目：硅谷外卖后台管理系统
+
 ```
 ### 6.3.国内最流行的MVVM库：Vue
 ```
 6.3.1 Vue路由库：Vue-Router
+
 6.3.2 Vue状态管理库：Vuex
+
 6.3.3 Vue PC端UI组件库：Element-UI
+
 6.3.4 Vue移动端UI组件库：Mint-UI
+
 6.3.5 Vue服务器端渲染
+
 6.3.6 Vue实战项目：硅谷外卖SPA
+
 ```
 ### 6.4 项目部署上线
+
 ### 6.5 Nginx反向代理
 
 ## 7.跨平台开发
 ```
 7.1 微信小程序开发
+
 7.2 微信小程序框架：mpvue
+
 7.3 微信小程序项目：硅谷书城项目+硅谷书刊
+
 7.4 微信公众号开发
+
 7.5 跨平台移动应用开发框架：React Native
+
 7.6 国内最流行的跨平台开发框架：MUI
+
 7.7 H5 Hybrid移动端混合开发框架：ionic
+
 ```
 ## 8.底层原理实现
 ```
 8.1 自定义promise
+
 8.2 自定义axios
+
 8.3 自定义EventBus
+
 8.4 自定义React、Vue脚手架
+
 8.5 自定义实现lodash方法
+
 ```
 
 ##网页编写格式规范

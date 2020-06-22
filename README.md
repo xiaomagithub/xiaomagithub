@@ -2,7 +2,7 @@
 
 ## 欢迎来到小马的GitHub网页
 
-你可以查看我的学习经历，[网址](https://github.com/xiaomagithub/xiaomagithub)
+你可以查看我的学习经历，[网址](https://xiaomagithub.github.io/personal/)
 
 学习小白，正在学习ing
 

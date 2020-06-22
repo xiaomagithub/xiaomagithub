@@ -162,7 +162,8 @@
 
 ## 网页编写格式规范
 
-```markdown  模块
+```markdown  
+模块
 .......
 ```
 - Bulleted 项目符号
@@ -173,8 +174,7 @@
 
 **粗体** _斜体_ 和`代码`文本
 
-[Link](url) and ![Image](src)
-链接]（http://....）和![图像](https://github.com/xiaomagithub/xiaomagithub/....图像所在的文件位置)
+[链接]（http://....）和![图像](https://github.com/xiaomagithub/xiaomagithub/....图像所在的文件位置)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
